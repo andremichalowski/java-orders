@@ -72,7 +72,7 @@ The table layouts are as follows
 The database will be available from the H2 Console. Each table will contain the appropriate data.
 
 ## Instructions
-
+- [x] Initial commit
 * [ ] Please fork and clone this repository. This repository does not have a starter project, so create one inside of the cloned repository folder. Regularly commit and push your code as appropriate.
 
 ### MVP
